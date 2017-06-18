@@ -15,5 +15,5 @@ npm install -g http-server
 ```bash
 http-server
 ```
-Browse [http://localhost:8080/](#http://localhost:8080/)
+Browse [http://localhost:8080/](http://localhost:8080/)
 
